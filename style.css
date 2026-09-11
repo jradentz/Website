@@ -1,0 +1,36 @@
+h1{
+background-color: #016f3a;
+color:white;
+}
+body{
+text-align:center;
+background-color: rgb(17, 26, 34);
+color:#016f3a;
+}
+p{
+padding:rem2;}
+
+img{
+border-radius:50px;
+height:auto;
+max-width:100%;
+margin: 5px;
+
+}
+.redStripe{
+background-color:red;
+color:black;
+width:300px;
+height:1rem;
+}
+.stars{
+background-color:blue;
+color:white;
+width:200px;
+}
+.whiteStripe{
+background-color:white;
+color:black;
+width:300px;
+height:1rem;
+}
